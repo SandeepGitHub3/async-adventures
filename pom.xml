@@ -11,7 +11,7 @@
 	<groupId>com.sherlock-async</groupId>
 	<artifactId>rabbitmq-event-listener</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rabbitmq-consumer</name>
+	<name>rabbitmq-event-listener</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
